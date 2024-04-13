@@ -1,1 +1,1 @@
-# ProyectoMiner-aDeDatosIA
+# ProyectoMineriaDeDatosIA
